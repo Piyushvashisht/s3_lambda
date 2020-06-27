@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: PlixxoActivity
+Version: 0.1.dev0
+Summary: A pip package to push the activity into kinesis stream
+Home-page: UNKNOWN
+Author: Piyush vashisht
+Author-email: piyush.vashisht@popxo.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,7 @@
+setup.py
+PlixxoActivity/__init__.py
+PlixxoActivity/activity.py
+PlixxoActivity.egg-info/PKG-INFO
+PlixxoActivity.egg-info/SOURCES.txt
+PlixxoActivity.egg-info/dependency_links.txt
+PlixxoActivity.egg-info/top_level.txt
